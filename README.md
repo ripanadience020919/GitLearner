@@ -1,3 +1,3 @@
 # GitLearner
 
-# I am new on Git
+# I am new to Git
